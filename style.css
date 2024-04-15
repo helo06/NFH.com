@@ -3,4 +3,9 @@ body{
     background-color: rgb(224, 61, 61);
     color: bisque;
 }
+header{
+    background-color: blue;
+   width: 10%;
+    margin: 10%;
+}
 img{width: 15%;}
